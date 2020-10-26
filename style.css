@@ -1,0 +1,85 @@
+body{
+    background: url(background.jpg) center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.class{
+    color: crimson;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h1{
+    color: white;
+    font-size: 30px; 
+}
+
+input{
+    width: 300px;
+    height: 30px;
+}
+
+#search{
+    background-color: tomato;
+    border: none;
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    width: 180px;
+    height: 40px;
+    padding: 10px 10px 10px 5px;
+    font-weight: bold;
+}
+
+form{
+    margin: 80px;
+    padding: 14px 15px 15px 15px;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    transform: translateY(-30%);
+}
+
+.CD{
+    margin-left: 80px;
+    margin-bottom: 40px;
+    text-align: center;
+    width: 250px;
+    overflow: hidden;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.artist{
+    margin-left: 350px;
+    margin-top: 100px;
+}
+
+.info{
+    margin-left: 630px;
+    margin-top: -200px;
+}
+
+.audio{
+    text-align: center;
+    margin-left: 200px;
+    margin-top:  100px;
+}
